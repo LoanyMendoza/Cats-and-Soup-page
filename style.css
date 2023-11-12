@@ -1,0 +1,406 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Playpen+Sans:wght@300&display=swap');
+body {
+    background-color: #a5d15f;
+    color:grey;
+    font-family: "Playpen Sans";
+}
+p {
+    font-size: 28px;
+}
+.title {
+    margin-top:4%;
+    background-color: #f7aa8b;
+    width: 80%;
+    margin-left: 10%;
+    border-radius: 40px;
+}
+
+h1 { color: black;
+    font-size: 50px;
+}
+
+h4 {
+    text-align: center;
+}
+.pp {
+    text-align: center;
+}
+
+.menu {
+    float:left;
+    background-color: #f7aa8b;
+    text-align:center;
+    width: 14%;
+    margin-left: 43%;
+    border-radius: 45px;
+}
+.menu2 {
+    text-align: center;
+    width: 35%;
+    background-color: #aec8f7;
+    border-radius: 40px;
+    font-size: 25px;
+}
+
+h3 {color:white;
+}
+a{ color:grey;}
+
+.dispo, .caracteristicas {
+    font-size: 36px;
+}
+
+.img1{
+    width: 40%;
+    border-bottom: 2px solid black;
+    margin-left: 30%;
+}
+
+.sorpresa {
+    color: white;
+    font-size: 32px;
+}
+
+form{
+    color: black;
+    font-family: "Playpen Sans";
+    font-size: 28px;
+}
+.nyan {
+    width: 300px;
+    border-radius: 10%;
+    box-shadow: 1px 0px 50px rgb(177, 67, 85);
+}
+
+.gatitosdispo {
+    color:grey;
+    font-size: 28px;
+    font-family: "dancing script";
+}
+
+.carac {
+    color:grey;
+    font-size: 28px;
+    font-family: "dancing script";
+}
+
+.gatosopa {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.about1 {
+    float:left;
+    background-color: #f7aa8b;
+    text-align:center;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 40px;
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+
+.gatitos1 {
+    float:left;
+    background-color: #f7aa8b;
+    text-align:center;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 40px;
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+
+.datos1 {
+    float:left;
+    background-color: #f7aa8b;
+    text-align:center;
+    width: 20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 40px;
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+
+.gatorepollo {
+    width: 30%;
+}
+.gatoflores {
+    width: 30%;
+}
+.cofre {
+    width: 30%;
+}
+.perezoso {
+    width: 30%;
+}
+.bebe {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.pescadito {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.fotos {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.regalos {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.blanquita {
+    float: left;
+    background-color: white;
+    width: 80%;
+    height: 1250px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-bottom: 40px;
+}
+.blanquitaimage{
+    float: left;
+    width: 46%;
+}
+.blanquitatext{
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 45%;
+    margin-right: 4%;
+    background-color: #f7aa8b;
+}
+.blanquita h1 {
+    text-align: center;
+    font-family: "Dancing Script";
+    font-size: 62px;
+}
+.blanquita p{
+    font-family: "Dancing Script";
+    font-size: 46px;
+    color: black;
+}
+
+.lunita {
+    float: left;
+    background-color: white;
+    width: 80%;
+    height: 1250px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-bottom: 40px;
+}
+.lunitaimage{
+    float: left;
+    width: 46%;
+}
+.lunitatext{
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 45%;
+    margin-right: 2%;
+    background-color: #f7aa8b;
+}
+.lunita h1 {
+    text-align: center;
+    font-family: "Dancing Script";
+    font-size: 62px;
+}
+.lunita p{
+    font-family: "Dancing Script";
+    font-size: 46px;
+    color: black;
+}
+
+.almendrito {
+    float: left;
+    background-color: white;
+    width: 80%;
+    height: 1250px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-bottom: 40px;
+}
+.almendritoimage{
+    float: left;
+    width: 46%;
+}
+.almendritotext{
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 45%;
+    margin-right: 2%;
+    background-color: #f7aa8b;
+}
+.almendrito h1 {
+    text-align: center;
+    font-family: "Dancing Script";
+    font-size: 62px;
+}
+.almendrito p{
+    font-family: "Dancing Script";
+    font-size: 46px;
+    color: black;
+}
+
+.linternav {
+    float: left;
+    background-color: white;
+    width: 80%;
+    height: 1250px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-bottom: 40px;
+}
+.linternavimage{
+    float: left;
+    width: 46%;
+}
+.linternavtext{
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 45%;
+    margin-right: 2%;
+    background-color: #f7aa8b;
+}
+.linternav h1 {
+    text-align: center;
+    font-family: "Dancing Script";
+    font-size: 62px;
+}
+.linternav p{
+    font-family: "Dancing Script";
+    font-size: 46px;
+    color: black;
+}
+
+.tostito {
+    float: left;
+    background-color: white;
+    width: 80%;
+    height: 1250px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-bottom: 40px;
+}
+.tostitoimage{
+    float: left;
+    width: 46%;
+}
+.tostitotext{
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 45%;
+    margin-right: 2%;
+    background-color: #f7aa8b;
+}
+.tostito h1 {
+    text-align: center;
+    font-family: "Dancing Script";
+    font-size: 62px;
+}
+.tostito p{
+    font-family: "Dancing Script";
+    font-size: 46px;
+    color: black;
+}
+
+.ratoncito {
+    float: left;
+    background-color: white;
+    width: 80%;
+    height: 1250px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-bottom: 40px;
+}
+.ratoncitoimage{
+    float: left;
+    width: 46%;
+}
+.ratoncitotext{
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 45%;
+    margin-right: 2%;
+    background-color: #f7aa8b;
+}
+.ratoncito h1 {
+    text-align: center;
+    font-family: "Dancing Script";
+    font-size: 62px;
+}
+.ratoncito p{
+    font-family: "Dancing Script";
+    font-size: 46px;
+    color: black;
+}
+
+.chinchilla {
+    float: left;
+    background-color: white;
+    width: 80%;
+    height: 1250px;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 20px;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-bottom: 40px;
+}
+.chinchillaimage{
+    float: left;
+    width: 46%;
+}
+.chinchillatext{
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 45%;
+    margin-right: 2%;
+    background-color: #f7aa8b;
+}
+.chinchilla h1 {
+    text-align: center;
+    font-family: "Dancing Script";
+    font-size: 62px;
+}
+.chinchilla p{
+    font-family: "Dancing Script";
+    font-size: 46px;
+    color: black;
+}
